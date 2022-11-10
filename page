@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+<style>
+*{
+margin: 0;
+padding: 0;
+}
+#content{
+background-image: url("woodland2.jpg");
+width: 100%;
+height: 60vh;
+background-size: cover;
+background-position: center;
+}
+</style>
+</head>
+<body>
+<div align="center">
+<header style=background-color:black><img src="logo.png" alt="woodland
+logo" height="125"></header>
+</div>
+<div align="center">
+<tr>
+<td><a
+
+href="#content">Home</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<td><a
+
+href="#foot">Contact</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<td><a
+
+href="Form2.html">Form</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td><input type="text" placeholder="Search.."></td>
+</tr>
+<hr>
+</div>
+<div id="content">
+<div style="float: left;">
+<video width="250" height="200" controls>
+<source src="Rolex.mp4" type="video/mp4">
+</video>
+</div>
+
+<div style="float: left; text-align: center; margin-top: 100px;
+margin-left: 50px;">
+
+<h3 style="color:whitesmoke">Woodland,a highly sought-after brand
+
+for a lot of millennials, has Indian roots. Aero Group,
+
+the parent company of Woodland, was founded by Avatar Singh in
+
+Quebec, Canada, in the 1980s.Woodland's parent company,
+
+Aero Group,has been a well known name in the outdoor shoe
+
+industry since the early 50s. Founded in Quebec, Canada,
+
+it entered the Indian market in 1992. Before that, Aero Group
+
+was majorly exporting its leather shoes to Russia.<br></h3>
+
+<audio controls>
+<source src="Rolex.mp4" type="audio/ogg">
+</audio>
+</div>
+</div>
+<hr>
+<div align="center">
+<table>
+<tr>
+<td style="padding-right:40px">
+<fieldset style="width:400px">
+<legend>Sign up</legend><br>
+<p>
+<div>
+<label for="username">Username:</label>
+<input type="text" id="username" name="username">
+</div><br>
+<p><div>
+<label for="pass">Password:</label>
+<input type="password" id="pass" name="password"
+minlength="8" required>
+
+</div><br>
+</p>
+<p align="Center">
+<input type="submit" value="Register">
+</p>
+</fieldset>
+</td>
+<td>
+<h2>Contact Us</h2>
+<address>Address 1</address>
+<address>Address 2</address>
+<address>Address 3</address>
+Mail:<a href =
+
+"mailto:woodland@google.com">woodland@google.com</a><br>
+
+Phone no:(+91)(9876543210)
+</td>
+
+<td style="padding-left:40px;">
+<div class="mapouter"><div class="gmap_canvas"><iframe
+class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0"
+src="https://maps.google.com/maps?width=306&amp;height=142&amp;hl=en&amp;q=kar
+unya institute of
+&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+
+<a href="https://www.kokagames.com/fnf-friday-night-funkin-
+mods/">Friday Night Funkin Mods</a></div>
+
+<style>.mapouter{position:relative;text-
+align:right;width:306px;height:142px;}.gmap_canvas
+
+{overflow:hidden;background:none!important;width:306px;height:142px;}.gmap_ifr
+ame {width:306px!important;height:142px!important;}</style></div>
+</td>
+</tr>
+</table>
+</div>
+<hr>
+</div>
+<footer>
+<div id="foot">
+<h1 style="background-color: black;" align="center"><img
+src="phone.jpg" alt="watch" width="30px",height="30px">&nbsp;&nbsp;
+<a href="https://www.facebook.com/woodlandadventure/"><img
+src="facebook.jpg"alt="facebook" width="30px",height="30px"></a>&nbsp;&nbsp;
+
+<a
+
+href="https://www.instagram.com/woodlandexploremore/?hl=en"><img
+src="insta.jpg"alt="instagram" width="30px",height="30px"></a></h1>
+</div>
+</footer>
+</body>
+</html>
